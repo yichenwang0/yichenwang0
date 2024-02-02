@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/yichenwang0/yichenwang0/assets/59595330/a86b4460-dbba-4d17-a7bf-339644a7f8f5" width="300" />
+  <img src="https://github.com/yichenwang0/yichenwang0/assets/59595330/a86b4460-dbba-4d17-a7bf-339644a7f8f5" width="250" />
 </div>
 
 <div id="badges" align="center">
